@@ -1,0 +1,171 @@
+html{
+    height: 100%;
+}
+body{
+    background-image: url(https://wallpaper-house.com/data/out/10/wallpaper2you_467857.jpg);
+    
+    background-size: cover;
+    background-position: center;
+
+
+
+}
+
+
+
+header{
+    background-color: rgba(0, 0, 0, 0.315);
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    padding:50px;
+    align-items: center;
+    
+    
+}
+h1{
+    color: rgb(255, 255, 255);
+}
+p{
+    color: black;
+}
+ h4, h3{ 
+     color: white;
+ }
+
+
+main{
+    background-color: rgba(255, 0, 0, 0.212);
+    display: flex;
+    min-height: 300px;
+    align-items: center;
+    margin-top: 400px;
+    margin-bottom: 00px;
+    text-align: center;
+    padding: 50px;
+}
+
+.box1{
+    flex: 2;
+    min-height: 300px;
+}
+.box2{
+    flex: 2;
+    height: 200px;
+    min-height: 300px;
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    padding-bottom: 8px;
+    text-align: center;
+}
+.card1{
+ ;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+
+
+  
+    
+    width: 33%;
+    height:;
+ 
+}
+
+.card2{
+
+    min-height: 350px;
+    width: 33%;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+ 
+}
+.card3{
+        min-height: 350px;
+        width: 33%;
+        background-position: center;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+     
+}
+.cards p{
+    color: rgba(250, 0, 0, 0.671);
+    font-size: 1rem;
+}
+ h2{
+     color: rgba(255, 0, 0, 0.521);
+ }
+h1{
+    color: black;
+}
+
+.evolution{
+    margin-top: 30px;
+    text-align: center;
+    background-color: #ff00005e;
+
+}
+.evolution h1{
+    color: white;
+}
+.evolution h1:hover{
+    color: gold;
+}
+
+.card1 p,h2{
+    margin-top: 100px;
+}
+
+.card2 p,h2{
+    margin-top: 100px;
+}
+.card1 p,h2{
+    margin-top: 100px;
+}
+
+.card2 p{
+    color: rgba(226, 17, 17, 0.582);
+}
+
+.card3 p,h2{
+    margin-top: 100px;
+}
+
+.boxer{
+    margin-top: 10px;
+    padding-top: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgba(255, 255, 255, 0.61);
+    min-height: 650px;
+}
+
+.box1 h1,p{
+    color: rgba(255, 255, 255, 0.822);
+}
+
+.cards h2{
+    font-size: 5rem;
+}
+.bg{
+    height: 600px;
+}
+
+.ending{
+    text-align: center;
+    margin-top: 30px;
+    min-height: 100px;
+    background-color: rgba(0, 0, 0, 0.336);
+}
+
+.ending h2{
+    color: white;
+}
+
+.ending ,h2,p{
+
+}
