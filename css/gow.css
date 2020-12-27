@@ -4,7 +4,7 @@ html{
 body{
     background-image: url(https://wallpaper-house.com/data/out/10/wallpaper2you_467857.jpg);
     
-    background-size: cover;
+    background-size: auto;
     background-position: center;
 
 
@@ -168,9 +168,4 @@ h1{
 
 .ending ,h2,p{
 
-}
-@media (max-width:640px) {
-  section {
-    background-attachment:initial;
-  }
 }
