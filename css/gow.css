@@ -3,10 +3,9 @@ html{
 }
 body{
     background-image: url(images/godbackround.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+    background-size: auto;
     background-position: center;
+
 
 
 }
@@ -55,12 +54,43 @@ main{
     min-height: 300px;
 }
 .cards{
+    display: flex;
     justify-content: space-between;
     margin-top: 100px;
     padding-bottom: 8px;
     text-align: center;
 }
+.card1{
+ ;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 
+
+  
+    
+    width: 33%;
+    height:;
+ 
+}
+
+.card2{
+
+    min-height: 350px;
+    width: 33%;
+    background-position: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+ 
+}
+.card3{
+        min-height: 350px;
+        width: 33%;
+        background-position: center;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+     
+}
 .cards p{
     color: rgba(250, 0, 0, 0.671);
     font-size: 1rem;
