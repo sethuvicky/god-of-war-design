@@ -5,6 +5,7 @@ body{
     background-image: url(images/godbackround.jpg);
     background-size: auto;
     background-position: center;
+    background-attachment: fixed;
 
 
 
@@ -40,19 +41,10 @@ main{
     align-items: center;
     margin-top: 400px;
     margin-bottom: 00px;
-    text-align: center;
     padding: 50px;
 }
 
-.box1{
-    flex: 2;
-    min-height: 300px;
-}
-.box2{
-    flex: 2;
-    height: 200px;
-    min-height: 300px;
-}
+
 .cards{
     display: flex;
     justify-content: space-between;
@@ -60,37 +52,7 @@ main{
     padding-bottom: 8px;
     text-align: center;
 }
-.card1{
- ;
-    background-position: center;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
 
-
-  
-    
-    width: 33%;
-    height:;
- 
-}
-
-.card2{
-
-    min-height: 350px;
-    width: 33%;
-    background-position: center;
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
- 
-}
-.card3{
-        min-height: 350px;
-        width: 33%;
-        background-position: center;
-        background-size: 100% 100%;
-        background-repeat: no-repeat;
-     
-}
 .cards p{
     color: rgba(250, 0, 0, 0.671);
     font-size: 1rem;
@@ -103,7 +65,7 @@ h1{
 }
 
 .evolution{
-    margin-top: 30px;
+    margin-top: 70px;
     text-align: center;
     background-color: #ff00005e;
 
