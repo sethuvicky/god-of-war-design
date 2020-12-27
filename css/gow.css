@@ -169,3 +169,8 @@ h1{
 .ending ,h2,p{
 
 }
+@media (max-width:640px) {
+  section {
+    background-attachment:initial;
+  }
+}
